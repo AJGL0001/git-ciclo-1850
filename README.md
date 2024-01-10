@@ -6,3 +6,4 @@ Proyecto de inicio.
 
 ## Steven Manuel Mateo Ramos 1014-7069
 
+Armando Gonzalez 1014-4198
